@@ -1,0 +1,19 @@
+* {margin:0;padding:0}
+body {font-family:Arial; font-size:14px; line-height:20px; color: #000; background:url(../images/bg.jpg) repeat fixed}
+p{margin-top:15px;}
+
+.main{ width:960px; margin:20px auto; display:block; overflow:hidden; background:#fff; }
+
+.mainmenu{ background:#00cc00; overflow:hidden; margin-top:10px; padding-left:10px;}
+.mainmenu ul{margin:0; padding:0; list-style:none}
+.mainmenu ul li{ float:left;border-right:1px solid #ddd}
+.mainmenu ul li a{ display:block; color:white; padding:10px 10px ; text-decoration:none}
+.mainmenu ul li a:hover{background:#ff3300}
+
+.maincontent{ overflow:hidden; margin-top:30px; margin-bottom:10px;}
+.maincontent h2{ margin-bottom:15px}
+
+
+.content{ overflow:hidden; margin-right:30px;margin-left:30px; background:lightgrey; border-radius:10px; padding:20px;}
+.content p{ margin-bottom:15px}
+#label{ background: black;}
